@@ -1,0 +1,13 @@
+name: catkill
+version: '1.0.1'
+main: cn.onea.kill.catkill
+api-version: '1.21'
+authors: [ onea ]
+commands:
+  catkill:
+    description: 玩家自杀命令
+    usage: /<command> [on|off]
+permissions:
+  killme.admin:
+    description: 允许管理自杀功能
+    default: op

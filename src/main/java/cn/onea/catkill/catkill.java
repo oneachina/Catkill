@@ -1,4 +1,4 @@
-package cn.onea.kill;
+package cn.onea.catkill;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
